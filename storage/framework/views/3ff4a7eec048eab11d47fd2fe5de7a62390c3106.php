@@ -190,4 +190,4 @@
             modeBarButtonsToRemove: ['pan2d','select2d','lasso2d','resetScale2d','zoomOut2d']};
         Plotly.newPlot('myDiv', data, layout,{displayModeBar: false});
     }
-</script><?php /**PATH C:\Users\NOYZz\Desktop\MST\laravel-photo-gallery-main\resources\views/albums/image-show.blade.php ENDPATH**/ ?>
+</script><?php  ?>
